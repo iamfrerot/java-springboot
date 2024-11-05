@@ -10,7 +10,7 @@ public class SwaggerConfiguration {
     @Bean
     public OpenAPI openAPI(){
         Info info = new Info().title(
-                "Aggregation Learn App"
+                "Simple Java spring-boot application Learn App"
         ).version("1.0")
                 .description("this in Learn Aggregation App");
         return new OpenAPI().info(info);
