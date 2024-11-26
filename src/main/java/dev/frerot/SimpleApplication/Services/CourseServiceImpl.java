@@ -1,8 +1,8 @@
 package dev.frerot.SimpleApplication.Services;
 
-import dev.frerot.SimpleApplication.Entities.Course;
+import dev.frerot.SimpleApplication.Modal.Course;
 import dev.frerot.SimpleApplication.Repositories.CourseRepository;
-import dev.frerot.SimpleApplication.exceptions.CourseNotFoundException;
+import dev.frerot.SimpleApplication.Exceptions.CourseNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

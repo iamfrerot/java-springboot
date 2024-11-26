@@ -1,7 +1,7 @@
 package dev.frerot.SimpleApplication.Controllers;
 
 
-import dev.frerot.SimpleApplication.Entities.Course;
+import dev.frerot.SimpleApplication.Modal.Course;
 import dev.frerot.SimpleApplication.Services.CourseService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

@@ -1,6 +1,6 @@
 package dev.frerot.SimpleApplication.Services;
 
-import dev.frerot.SimpleApplication.Entities.Course;
+import dev.frerot.SimpleApplication.Modal.Course;
 
 import java.util.List;
 import java.util.Map;

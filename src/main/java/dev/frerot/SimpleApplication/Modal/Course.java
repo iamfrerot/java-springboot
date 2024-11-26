@@ -1,4 +1,4 @@
-package dev.frerot.SimpleApplication.Entities;
+package dev.frerot.SimpleApplication.Modal;
 
 
 import org.springframework.data.annotation.Id;
